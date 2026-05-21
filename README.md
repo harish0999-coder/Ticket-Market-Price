@@ -46,7 +46,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173
+Open : https://ticket-market-price.vercel.app/
 
 ```bash
 # Build for production
